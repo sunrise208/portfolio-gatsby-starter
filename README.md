@@ -22,12 +22,6 @@
   </a>
 </p>
 
-Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using the Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/main/themes/gatsby-theme-cara).
-
-[**Demo Website**](https://cara.lekoarts.de)
-
-Also be sure to check out other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de) and my [Personal Website](https://www.lekoarts.de?utm_source=cara&utm_medium=Starter).
-
 ## ✨ Features
 
 - Theme UI-based theming
@@ -47,13 +41,12 @@ Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
 Use the Gatsby CLI to clone the site and install dependencies:
 
 ```sh
-npx gatsby new gatsby-starter-portfolio-cara https://github.com/LekoArts/gatsby-starter-portfolio-cara
-```
+npx gatsby new gatsby-starter-portfolio-cara https://github.com/sunriseaigo/portfolio-gatsby-starter
 
 ### 2. **Navigate to your new project.**
 
 ```sh
-cd gatsby-starter-portfolio-cara
+cd portfolio-gatsby-starter
 ```
 
 ### 3. **Open the code and start customizing!**
@@ -101,18 +94,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on Gatsby's webs
 ### Themes
 
 To learn more about Gatsby themes specifically, I recommend checking out the [theme docs](https://www.gatsbyjs.com/docs/themes/).
-
-### General
-
-- **For most developers, I recommend starting with the [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.com/docs/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
-
-- **To dive straight into code samples, head [to Gatsby's documentation](https://www.gatsbyjs.com/docs/).** In particular, check out the _How-to Guides_ and _Reference_ items in the primary navigation.
-
-## 🌟 Supporting me
-
-Thanks for using this project! I'm always interested in seeing what people do with my projects, so don't hesitate to tag me on [Twitter](https://twitter.com/lekoarts_de) and share the project with me.
-
-Please star this project, share it on Social Media or consider supporting me on [GitHub Sponsors](https://github.com/sponsors/LekoArts)!
 
 
 ## Contact
