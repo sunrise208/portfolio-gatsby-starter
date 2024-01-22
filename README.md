@@ -113,3 +113,10 @@ To learn more about Gatsby themes specifically, I recommend checking out the [th
 Thanks for using this project! I'm always interested in seeing what people do with my projects, so don't hesitate to tag me on [Twitter](https://twitter.com/lekoarts_de) and share the project with me.
 
 Please star this project, share it on Social Media or consider supporting me on [GitHub Sponsors](https://github.com/sponsors/LekoArts)!
+
+
+## Contact
+
+For any questions or inquiries, please reach out to the development team at [sunrise96208@gmail.com]
+
+Enjoy using my project and stay productive!
